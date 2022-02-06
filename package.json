@@ -1,0 +1,16 @@
+{
+  "name": "docs",
+  "version": "1.0.0",
+  "description": "지식창고",
+  "main": "index.js",
+  "repository": "git@github.com:mydoubleu/docs.git",
+  "author": "mydoubleu <devdoubleu@gmail.com>",
+  "license": "MIT",
+  "devDependencies": {
+    "vuepress": "^2.0.0-beta.35"
+  },
+  "scripts": {
+    "pages:dev": "vuepress dev pages",
+    "pages:build": "vuepress build pages"
+  }
+}
