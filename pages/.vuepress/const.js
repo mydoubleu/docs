@@ -13,6 +13,7 @@ exports.CentOS = {
     '/centos7/bookstack.md',
     '/centos7/postgresql.md',
     '/centos7/redis.md',
+    '/centos7/ssh_tunneling.md',
   ],
 };
 
