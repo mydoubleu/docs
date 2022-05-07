@@ -1,0 +1,5 @@
+import{e as a}from"./app.3826fdf0.js";import{_ as e}from"./plugin-vue_export-helper.21dcd24c.js";const s={},n=a(`<h1 id="java-\u1109\u1165\u11AF\u110E\u1175" tabindex="-1"><a class="header-anchor" href="#java-\u1109\u1165\u11AF\u110E\u1175" aria-hidden="true">#</a> Java \uC124\uCE58</h1><div class="language-bash ext-sh line-numbers-mode"><pre class="language-bash"><code>yum -y <span class="token function">install</span> java-11-openjdk java-11-openjdk-devel
+java -version
+</code></pre><div class="line-numbers"><span class="line-number">1</span><br><span class="line-number">2</span><br></div></div><p>\uC124\uCE58\uD55C \uBC84\uC804\uC73C\uB85C \uB098\uC624\uC9C0 \uC54A\uB294 \uACBD\uC6B0</p><div class="language-bash ext-sh line-numbers-mode"><pre class="language-bash"><code>update-alternatives --config java
+update-alternatives --config javac
+</code></pre><div class="line-numbers"><span class="line-number">1</span><br><span class="line-number">2</span><br></div></div>`,4);function r(c,i){return n}var p=e(s,[["render",r]]);export{p as default};

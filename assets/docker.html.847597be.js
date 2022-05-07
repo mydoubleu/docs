@@ -1,0 +1,7 @@
+import{r as a,o as c,c as o,a as e,d as t,F as r,b as n,e as l}from"./app.3826fdf0.js";import{_ as p}from"./plugin-vue_export-helper.21dcd24c.js";const d={},i=e("h1",{id:"docker-\u1109\u1165\u11AF\u110E\u1175",tabindex:"-1"},[e("a",{class:"header-anchor",href:"#docker-\u1109\u1165\u11AF\u110E\u1175","aria-hidden":"true"},"#"),n(" Docker \uC124\uCE58")],-1),u={href:"https://docs.docker.com/engine/install/centos/",target:"_blank",rel:"noopener noreferrer"},m=n("https://docs.docker.com/engine/install/centos/"),k=l(`<div class="language-bash ext-sh line-numbers-mode"><pre class="language-bash"><code>yum-config-manager <span class="token punctuation">\\</span>
+  --add-repo <span class="token punctuation">\\</span>
+  https://download.docker.com/linux/centos/docker-ce.repo
+yum -y <span class="token function">install</span> docker-ce docker-ce-cli containerd.io
+systemctl <span class="token builtin class-name">enable</span> <span class="token function">docker</span>
+systemctl start <span class="token function">docker</span>
+</code></pre><div class="line-numbers"><span class="line-number">1</span><br><span class="line-number">2</span><br><span class="line-number">3</span><br><span class="line-number">4</span><br><span class="line-number">5</span><br><span class="line-number">6</span><br></div></div>`,1);function _(b,h){const s=a("ExternalLinkIcon");return c(),o(r,null,[i,e("p",null,[e("a",u,[m,t(s)])]),k],64)}var x=p(d,[["render",_]]);export{x as default};

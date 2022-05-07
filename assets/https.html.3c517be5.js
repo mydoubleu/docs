@@ -1,0 +1,7 @@
+import{e}from"./app.3826fdf0.js";import{_ as s}from"./plugin-vue_export-helper.21dcd24c.js";const a={},r=e(`<h1 id="https-\u1109\u1165\u11AF\u110C\u1165\u11BC" tabindex="-1"><a class="header-anchor" href="#https-\u1109\u1165\u11AF\u110C\u1165\u11BC" aria-hidden="true">#</a> HTTPS \uC124\uC815</h1><h2 id="keystore-\u1109\u1162\u11BC\u1109\u1165\u11BC" tabindex="-1"><a class="header-anchor" href="#keystore-\u1109\u1162\u11BC\u1109\u1165\u11BC" aria-hidden="true">#</a> keystore \uC0DD\uC131</h2><div class="language-bash ext-sh line-numbers-mode"><pre class="language-bash"><code>openssl pkcs12 -export -in fullchain.pem -inkey privkey.pem -out keystore.p12 -name name -CAfile chain.pem -caname root
+</code></pre><div class="line-numbers"><span class="line-number">1</span><br></div></div><h2 id="ssl-\u1109\u1165\u11AF\u110C\u1165\u11BC" tabindex="-1"><a class="header-anchor" href="#ssl-\u1109\u1165\u11AF\u110C\u1165\u11BC" aria-hidden="true">#</a> ssl \uC124\uC815</h2><div class="language-text ext-text line-numbers-mode"><pre class="language-text"><code>server.ssl.enabled=true
+server.ssl.key-store=/opt/cert/keystore.p12
+server.ssl.key-store-type=PKCS12
+server.ssl.key-store-password=111qqq@@@
+server.ssl.key-alias=name
+</code></pre><div class="line-numbers"><span class="line-number">1</span><br><span class="line-number">2</span><br><span class="line-number">3</span><br><span class="line-number">4</span><br><span class="line-number">5</span><br></div></div>`,5);function n(t,l){return r}var p=s(a,[["render",n]]);export{p as default};

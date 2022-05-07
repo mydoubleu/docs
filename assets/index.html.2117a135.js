@@ -1,0 +1,1 @@
+const e={key:"v-8daa1a0e",path:"/",title:"Simple is the best.",lang:"en-US",frontmatter:{},excerpt:"",headers:[],git:{updatedTime:1644155532e3,contributors:[{name:"mydoubleu",email:"devdoubleu@gmail.com",commits:1}]},filePathRelative:"README.md"};export{e as data};

@@ -1,0 +1,1 @@
+const e={key:"v-b842e946",path:"/centos7/",title:"CentOS 7 \uC124\uC815",lang:"en-US",frontmatter:{},excerpt:"",headers:[],git:{updatedTime:1644155532e3,contributors:[{name:"mydoubleu",email:"devdoubleu@gmail.com",commits:1}]},filePathRelative:"centos7/README.md"};export{e as data};

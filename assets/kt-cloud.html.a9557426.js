@@ -1,0 +1,6 @@
+import{e}from"./app.3826fdf0.js";import{_ as a}from"./plugin-vue_export-helper.21dcd24c.js";const n={},s=e(`<h1 id="kt-cloud" tabindex="-1"><a class="header-anchor" href="#kt-cloud" aria-hidden="true">#</a> KT Cloud</h1><h2 id="\u1103\u1175\u1109\u1173\u110F\u1173-\u110E\u116E\u1100\u1161" tabindex="-1"><a class="header-anchor" href="#\u1103\u1175\u1109\u1173\u110F\u1173-\u110E\u116E\u1100\u1161" aria-hidden="true">#</a> \uB514\uC2A4\uD06C \uCD94\uAC00</h2><div class="language-bash ext-sh line-numbers-mode"><pre class="language-bash"><code>mkfs.ext4 /dev/xvdb
+<span class="token function">mkdir</span> /data
+<span class="token function">mount</span> /dev/xvdb /data
+<span class="token function">vi</span> /etc/fstab
+</code></pre><div class="line-numbers"><span class="line-number">1</span><br><span class="line-number">2</span><br><span class="line-number">3</span><br><span class="line-number">4</span><br></div></div><div class="language-text ext-text line-numbers-mode"><pre class="language-text"><code>/dev/xvdb /data                                 ext4    defaults,nofail 0 0
+</code></pre><div class="line-numbers"><span class="line-number">1</span><br></div></div>`,4);function d(t,r){return s}var i=a(n,[["render",d]]);export{i as default};

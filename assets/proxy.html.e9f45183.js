@@ -1,0 +1,1 @@
+const e={key:"v-4f3640e1",path:"/spring-boot/proxy.html",title:"Proxy \uC11C\uBC84 \uC0AC\uC6A9\uD558\uB294 \uACBD\uC6B0",lang:"en-US",frontmatter:{},excerpt:"",headers:[],git:{updatedTime:1644155532e3,contributors:[{name:"mydoubleu",email:"devdoubleu@gmail.com",commits:1}]},filePathRelative:"spring-boot/proxy.md"};export{e as data};

@@ -1,0 +1,1 @@
+const t={key:"v-38c42397",path:"/centos7/bookstack.html",title:"Bookstack \uC124\uCE58 (Docker)",lang:"en-US",frontmatter:{},excerpt:"",headers:[],git:{updatedTime:1644155532e3,contributors:[{name:"mydoubleu",email:"devdoubleu@gmail.com",commits:1}]},filePathRelative:"centos7/bookstack.md"};export{t as data};

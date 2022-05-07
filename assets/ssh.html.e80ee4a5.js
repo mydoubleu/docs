@@ -1,0 +1,1 @@
+const e={key:"v-0cc4e62e",path:"/centos7/ssh.html",title:"SSH \uC124\uCE58",lang:"en-US",frontmatter:{},excerpt:"",headers:[],git:{updatedTime:1644155532e3,contributors:[{name:"mydoubleu",email:"devdoubleu@gmail.com",commits:1}]},filePathRelative:"centos7/ssh.md"};export{e as data};

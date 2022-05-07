@@ -1,0 +1,1 @@
+const e={key:"v-12e01eb4",path:"/spring-boot/thymeleaf.html",title:"Thymeleaf \uAE30\uBCF8 \uC124\uC815",lang:"en-US",frontmatter:{},excerpt:"",headers:[],git:{updatedTime:1644155532e3,contributors:[{name:"mydoubleu",email:"devdoubleu@gmail.com",commits:1}]},filePathRelative:"spring-boot/thymeleaf.md"};export{e as data};

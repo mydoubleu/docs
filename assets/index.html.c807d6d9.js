@@ -1,0 +1,1 @@
+import{o as e,c as t,a as s,b as o}from"./app.3826fdf0.js";import{_ as a}from"./plugin-vue_export-helper.21dcd24c.js";const r={},c={id:"simple-is-the-best",tabindex:"-1"},i=s("a",{class:"header-anchor",href:"#simple-is-the-best","aria-hidden":"true"},"#",-1),_=o(" Simple is the best."),d=[i,_];function n(h,p){return e(),t("h1",c,d)}var m=a(r,[["render",n]]);export{m as default};
